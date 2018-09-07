@@ -1,0 +1,57 @@
+body{
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.input-group {
+    margin: 3em auto;
+    max-width: 500px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+.temp {
+    font-size: 4em;
+}
+
+.description {
+    font-size: 2em;
+}
+
+.weather-info {
+    display: none;
+}
+
+.city-name {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+.wi{
+    font-size: 60px;
+    padding-top: 20px;
+}
+.weather-comment{
+    margin-top: 100px;
+    color: #484444;
+}
+.info{
+    font-size: 5vw;
+    margin: 0;
+    font-family: -webkit-pictograph;
+}
+.arrow{
+    font-size: 7vw;
+}
+h1{
+    font-size: 3.5rem;
+    font-family: 'Quicksand', sans-serif;
+}
+.temp-range{
+    font-size: 25px;
+}
